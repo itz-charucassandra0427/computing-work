@@ -13,3 +13,6 @@ My education
 1. Independent School of Batam
 2. Mayflower Primary School
 3. Dunman High School
+
+## My stories
+### Ms Wong
