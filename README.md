@@ -1,7 +1,7 @@
 # Computing-work
 ## My first project!
 
-_Hello everyone_! I am **Cassandra** from 1E, _Dunman High School_.
+_Hello everyone_! I am **Cassandra** from 1E, [_Dunman High School_](https://dunmanhigh.moe.edu.sg/)
 
 My hobbies
 * Eating
