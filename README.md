@@ -7,6 +7,7 @@ My hobbies
 * Eating
 * Sleeping 
 * Studying 
+* Listening to music
 
 My education
 1. Independent School of Batam
