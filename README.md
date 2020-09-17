@@ -1,2 +1,4 @@
 # Computing-work
-## By:Cassandra
+## My first project!
+
+_Hello everyone_! I am **Cassandra** from 1E, _Dunman High School_.
