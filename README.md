@@ -14,5 +14,4 @@ My education
 2. Mayflower Primary School
 3. Dunman High School
 
-## My stories
-### Ms Wong
+
